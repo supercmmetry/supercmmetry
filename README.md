@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- ⚡ I'm a full stack developer familiar with a whole bunch of frameworks and algorithms.
-- ⚡ I’m currently working on hybridzip, a unified compression platform.
-- 🌱 I’m currently learning: tensorflow2
+- ⚡ I'm a systems developer familiar with a whole bunch of frameworks and algorithms. Backend, frontend, appdev, sysadmin, devops, etc.
+- ⚡ 100% tech otaku.
+- ⚡ I’m currently working on mitsuha.
+- 🌱 I’m currently learning: webassembly
 - 📫 How to reach me: Email me at vishaals2000@gmail.com
 
 
